@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - main entry point 
+ * main - main entry point
  * description - Write a C program that prints exactly
  *
  * Return: Always 0 (Success)
