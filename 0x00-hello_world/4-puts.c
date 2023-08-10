@@ -1,6 +1,9 @@
 #include <stdio.h>
 /**
- * Hey C
+ * main - main entry point 
+ * description - Write a C program that prints exactly
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
