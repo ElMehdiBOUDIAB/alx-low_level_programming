@@ -5,11 +5,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - Prints if number is positive, zero or negative *
+ * Return : always (success)
  *
- * Description: Prints if number is positive, zero or negative
- *
- * Return : always 0 (success)
  */
 
 int main(void)
