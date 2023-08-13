@@ -11,7 +11,7 @@
 /**
  *  main - entry point
  *  Description : Prints if number is positive, zero or negative
- *  Return : always 0 (success)
+ *  Return: always 0 (success)
  *
  */
 
